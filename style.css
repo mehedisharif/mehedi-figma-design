@@ -109,3 +109,9 @@
 .col-l-f{
     margin-left: 90px;
 }
+.col-l-f h5{
+    color: black;
+}
+.col-l-f li{
+    font-size: 10px;
+}
